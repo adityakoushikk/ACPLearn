@@ -1,4 +1,4 @@
-# ACPLearn: A Deep Neural Network to predict novel anticancer peptides
+# ACPLearn: A Deep Neural Network to predict anticancer peptides
 
 Try it out: acp-learn.com
 
