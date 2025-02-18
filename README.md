@@ -4,7 +4,10 @@ Try it out: acp-learn.com
 
 <img width="892" alt="image" src="https://github.com/user-attachments/assets/6e261423-3cc3-4371-bcf9-e3cd82c932b9" />
 
+
+
 Left: Breast Cancer Cells
+
 Right: Breast Cancer Cells treated with an anticancer peptide predicted by deep learning model
 
 
